@@ -1,3 +1,5 @@
 # COGS181-FINALPROJECT-AUDIOCNN
 
 My name is Jeda Krisnell Dionisio. I am a Master's student at the University of California, San Diego. This is my final project for COGS 191: Deep Learning/Neural Networks. 
+
+I looked at a sample of the SceneFake dataset to use convolutional neural networks. With Audio CNN, I experimented with 10 different models for the detection of "fake" audio files. 
